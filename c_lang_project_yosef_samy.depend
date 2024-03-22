@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1691611773 source:d:\projects\amit embedded\c_lang_project_yosef_samy\std.c
+
+1691926218 source:d:\projects\amit embedded\c_lang_project_yosef_samy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"std_app.h"
+
+1691685232 source:d:\projects\amit embedded\c_lang_project_yosef_samy\stb.c
+	<stdlib.h>
+	"student.h"
+	"stb.h"
+
+1691620023 d:\projects\amit embedded\c_lang_project_yosef_samy\student.h
+	"std.h"
+
+1691621794 d:\projects\amit embedded\c_lang_project_yosef_samy\std.h
+
+1691682919 d:\projects\amit embedded\c_lang_project_yosef_samy\stb.h
+	"student.h"
+
+1691684003 d:\projects\amit embedded\c_lang_project_yosef_samy\std_app.h
+
+1691685335 source:d:\projects\amit embedded\c_lang_project_yosef_samy\std_app.c
+	<stdio.h>
+	"std.h"
+	"student.h"
+	"stb.h"
+
